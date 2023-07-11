@@ -28,28 +28,34 @@ This project focuses on classifying the stage of the demographic transition mode
   - Stage 1 (Pre-industrial stage)
 
     - Applies to most of the world before the Industrial Revolution. Can be identified by a high birth rate and high mortality rate.
-<br>
-<img src="Stage_1.png" width="600">
- 
+
+    <kbd><img src="Stage_1.png" width="600"></kbd>
+
+ <br>
  
   - Stage 2 (Transition stage)
   
     - Introduction of modern technology lowers the mortality rate but still keeps the birth rate high
-<br>
-    <img src="Stage_2.png" width="600">
 
+    <kbd><img src="Stage_2.png" width="600"></kbd>
+
+<br>
     
   - Stage 3 (Industrial stage)
 
     - Birth rates gradually decrease as a result of improved economic conditions, increase in women's status, and access to contraceptives. This causes the birth rate to also go down.
+
+    <kbd><img src="Stage_3.png" width="600"></kbd>
+
 <br>
-<img src="Stage_3.png" width="600">
 
   - Stage 4 (Post-industrial stage)
   
     - Birth rates and death rates are low which stabilizes the population. These countries tend to have stronger economies, better healthcare, and a high proportion of working women. This stage consists of mainly developed countries. 
+
+    <kbd><img src="Stage_4.png" width="600"></kbd>
+
 <br>
-    <img src="Stage_4.png" width="600">
     
 </details>
 
